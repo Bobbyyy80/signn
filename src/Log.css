@@ -1,0 +1,42 @@
+.App {
+      text-align: center;
+      padding-top: 20px;
+    
+    }
+    .box{
+      background-color: rgb(228, 250, 250);
+      width: 200px;
+      height: 270px;   
+      margin-left: 200px;
+      border-radius: 10px;
+      border: 10px;
+      border-color: aqua;
+    }
+    .log{
+      width: 100px;
+      margin-left: 50px;
+      margin-top: 30px;
+      background-color:#4cb5f9;
+      border: #4cb5f9;
+      border-radius: 20px;
+    }
+    .or{
+      margin-left: 45px;
+      margin-top: 20px;
+    }
+    .forget{
+      margin-left: 40px;
+      margin-top: 10px;
+    }
+    .acc{
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+    .sign{
+      margin-left: 60px;
+      background-color: transparent;
+      border: none;
+      color: blue;
+      font-size: large;
+      margin-top: 10px;
+    }
